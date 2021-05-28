@@ -23,7 +23,7 @@
     "@emotion/core": "^10.0.27",
     "@lekoarts/gatsby-theme-emilia-core": "^1.1.2",
     "@mdx-js/react": "^1.5.5",
-    "@theme-ui/presets": "^0.2.44",
+    "@theme-ui/presets": "^0.8.4",
     "colorthief": "^2.3.0",
     "gatsby-core-utils": "^1.0.28",
     "gatsby-image": "^2.2.40",
