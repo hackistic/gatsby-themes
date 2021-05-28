@@ -28,7 +28,7 @@
     "@theme-ui/sidenav": "^0.2.53",
     "gatsby-plugin-mdx": "^1.0.70",
     "gatsby-plugin-react-helmet": "^3.1.22",
-    "gatsby-plugin-theme-ui": "^0.2.53",
+    "gatsby-plugin-theme-ui": "^0.8.4",
     "gatsby-plugin-typescript": "^2.1.27",
     "gatsby-source-filesystem": "^2.1.48",
     "is-absolute-url": "^3.0.3",
