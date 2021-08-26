@@ -7232,20 +7232,6 @@ eslint-plugin-import@^2.22.1:
   version "2.22.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.22.1.tgz#0896c7e6a0cf44109a2d97b95903c2bb689d7702"
   integrity sha512-8K7JjINHOpH64ozkAhpT3sd+FswIZTfMZTjdx052pnWrgRCVfp8op9tbjpAk3DdUeI/Ba4C8OjdC0r90erHEOw==
-  dependencies:
-    array-includes "^3.1.1"
-    array.prototype.flat "^1.2.3"
-    contains-path "^0.1.0"
-    debug "^2.6.9"
-    doctrine "1.5.0"
-    eslint-import-resolver-node "^0.3.4"
-    eslint-module-utils "^2.6.0"
-    has "^1.0.3"
-    minimatch "^3.0.4"
-    object.values "^1.1.1"
-    read-pkg-up "^2.0.0"
-    resolve "^1.17.0"
-    tsconfig-paths "^3.9.0"
 
 eslint-plugin-jsx-a11y@^6.4.1:
   version "6.4.1"
@@ -8490,10 +8476,10 @@ gatsby-plugin-sitemap@^2.2.12:
     pify "^3.0.0"
     sitemap "^1.13.0"
 
-gatsby-plugin-theme-ui@^0.2.41:
-  version "0.2.53"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.2.53.tgz#57a52339e50ede7ef4df0b1b5593d360b56b597d"
-  integrity sha512-AlQC+uC9lvrP3LlGsLe0f0azp7B5c49qWl4b3FDj8xbravBoqFmJT7XrNTpYYbxnCnx/K1v0QtwP8qindw0S2g==
+gatsby-plugin-theme-ui@^0.10.1:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.10.1.tgz#d1ac7f4f1c4bf187694110a8670f0bb3ff470ad2"
+  integrity sha512-e6xr0BOsasTz1V1d6whAl4C2trHmIS6qg6y8BYdeO0ejMEr2Tc6svvv9E3eJpWsN4kjKFPLwNwb4dp8OvZND7w==
 
 gatsby-plugin-typescript@^2.1.8:
   version "2.1.23"
@@ -15917,7 +15903,7 @@ snyk-try-require@^2.0.0:
     lodash.clonedeep "^4.3.0"
     lru-cache "^5.1.1"
 
-snyk@1.566.0, snyk@^1.566.0:
+snyk@^1.566.0:
   version "1.566.0"
   resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.566.0.tgz#a215d6587614d4496f82404ea1b2bd8bd669a1bf"
   integrity sha512-rAm/O0DTsoxBhfTQWk0qwcAN2k1WBfCHzps+879xv755evr98d517pBZmgcnKL8diF3sffAqqR+1JLsegzH5Mg==
