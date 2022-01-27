@@ -15917,7 +15917,7 @@ snyk-try-require@^2.0.0:
     lodash.clonedeep "^4.3.0"
     lru-cache "^5.1.1"
 
-snyk@1.566.0, snyk@^1.566.0:
+snyk@^1.566.0:
   version "1.566.0"
   resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.566.0.tgz#a215d6587614d4496f82404ea1b2bd8bd669a1bf"
   integrity sha512-rAm/O0DTsoxBhfTQWk0qwcAN2k1WBfCHzps+879xv755evr98d517pBZmgcnKL8diF3sffAqqR+1JLsegzH5Mg==
@@ -16885,15 +16885,10 @@ then-fs@^2.0.0:
   dependencies:
     promise ">=3.2 <8"
 
-three@*:
-  version "0.108.0"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.108.0.tgz#53d26597c7932f214bb43f4655e566d2058143b5"
-  integrity sha512-d1ysIXwi8qTlbmMwrTxi5pYiiYIflEr0e48krP0LAY8ndS8c6fkLHn6NvRT+o76/Fs9PBLxFViuI62iGVWwwlg==
-
-three@^0.125.0:
-  version "0.125.2"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.125.2.tgz#dcba12749a2eb41522e15212b919cd3fbf729b12"
-  integrity sha512-7rIRO23jVKWcAPFdW/HREU2NZMGWPBZ4XwEMt0Ak0jwLUKVJhcKM55eCBWyGZq/KiQbeo1IeuAoo/9l2dzhTXA==
+three@*, three@^0.137.0:
+  version "0.137.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.137.0.tgz#0ebd6ba66637a332c31f234bcdd35aeec071a6e3"
+  integrity sha512-rzSDhia6cU35UCy6y+zEEws6vSgytfHqFMSaBvUcySgzwvDO6vETyswtSNi/+aVqJw8WLMwyT1mlQQ1T/dxxOA==
 
 through2@^2.0.1, through2@^2.0.3:
   version "2.0.5"
