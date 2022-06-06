@@ -16,7 +16,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-graphql-playground": "^1.0.9",
+    "@lekoarts/gatsby-theme-graphql-playground": "^2.0.0",
     "gatsby": "^2.17.7",
     "gatsby-plugin-netlify": "^2.1.23",
     "react": "^16.11.0",
